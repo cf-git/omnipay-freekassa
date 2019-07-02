@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/omnipay-freekassa",
+    "name": "cf-git/omnipay-freekassa",
     "type": "library",
     "description": "FreeKassa driver for Omnipay PHP payment library",
     "version": "master",
