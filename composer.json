@@ -45,7 +45,6 @@
         }
     ],
     "require": {
-         "require": {
         "omnipay/common": "^3.0"
     },
     "require-dev": {
