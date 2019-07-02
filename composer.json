@@ -2,6 +2,7 @@
     "name": "hiqdev/omnipay-freekassa",
     "type": "library",
     "description": "FreeKassa driver for Omnipay PHP payment library",
+    "version": "master",
     "keywords": [
         "php",
         "omnipay",
